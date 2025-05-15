@@ -1,1 +1,1 @@
-https://kamolakhan.github.io/weather/settings/pages
+https://kamolakhan.github.io/weather/
