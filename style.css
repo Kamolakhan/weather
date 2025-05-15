@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  background: #eef;
   display: flex;
   justify-content: center;
   padding: 50px;
@@ -9,7 +10,7 @@ body {
 }
 
 .container {
-  color: #382984;
+  color: #4a3c8c;
   font-size: 22px;
   font-weight: bold;
   text-align: center;
@@ -23,7 +24,7 @@ body {
 }
 
 #weatherDisplay {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 input[type="text"] {
